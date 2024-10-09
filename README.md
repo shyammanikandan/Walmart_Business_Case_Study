@@ -11,13 +11,7 @@ The Management team at Walmart Inc. wants to analyze the customer purchase behav
 ## About Data
 The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday. 
 
-**Product Portfolio**
 
-- The KP281 is an entry-level treadmill that sells for USD 1,500.
-
-- The KP481 is for mid-level runners that sell for USD 1,750.
-
-- The KP781 treadmill is having advanced features that sell for USD 2,500.
 
 ### Dataset features
 | Feature                      | Description |
